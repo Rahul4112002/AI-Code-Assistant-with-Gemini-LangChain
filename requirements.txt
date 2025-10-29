@@ -1,0 +1,7 @@
+﻿streamlit
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv
+pypdf
+docx2txt
